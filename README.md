@@ -9,4 +9,5 @@ Unreal-Apocalypse
 ## Journal:
 - 2019.09.13 Initial GitHub Project
 - 2019.09.14 Inital Project Environemnt Scroller
-- 2019.09.16 Added Project Google Drive Folder
+- 2019.09.16 Added Project Google Drive Folder to README.md
+- 2019.09.24 Created models for enemies [2019.09.24 Concept Models](https://www.youtube.com/watch?v=sOW_lIGwISk&list=PLlKRHW1yeEh35DqG6kNAuftlVTi8_iGYl&index=2&t=0s)
