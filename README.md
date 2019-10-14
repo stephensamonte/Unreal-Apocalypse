@@ -15,4 +15,9 @@ Unreal-Apocalypse
 - 2019.09.16 Added Project Google Drive Folder to README.md
 - 2019.09.24 Created models for enemies [2019.09.24 Concept Models](https://www.youtube.com/watch?v=sOW_lIGwISk&list=PLlKRHW1yeEh35DqG6kNAuftlVTi8_iGYl&index=2&t=0s)
 - 2019.09.29 Animated Robots 1, 2, and 4, created Blender files for models [showcase](https://www.youtube.com/watch?v=cjsITfxlklA&feature=youtu.be)
-- 2019.10.11 Added electro Music Asset 
+- 2019.10.11 Added electro music asset by Griffin Knock
+- 2019.10.14 Added electro and chase music assets by Griffin Knock
+
+## Credits
+
+Music by Griffin Knock
