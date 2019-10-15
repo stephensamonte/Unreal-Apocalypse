@@ -17,6 +17,7 @@ Unreal-Apocalypse
 - 2019.09.29 Animated Robots 1, 2, and 4, created Blender files for models [showcase](https://www.youtube.com/watch?v=cjsITfxlklA&feature=youtu.be)
 - 2019.10.11 Added electro music asset by Griffin Knock
 - 2019.10.14 Added electro and chase music assets by Griffin Knock
+- 2019.10.15 Created concept art folder, added and updated music, First level created [Showcase](https://www.youtube.com/watch?v=xeVZDkb6DVA&feature=youtu.be)
 
 ## Credits
 
