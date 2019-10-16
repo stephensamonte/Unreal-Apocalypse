@@ -2,4 +2,4 @@
 
 ## Credits
 
-- Griffin Knock (**ADD EMAIL**)
+- Griffin Knock (griffinknock5@gmail.com)
